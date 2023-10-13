@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: kami5656.github.io/typography
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: typography package
+site-title: `typography`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: kami5656.github.io/typography
+current-package: kami5656.github.io/typography
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of typography.
 
 -- display-type:
-types: $<repo_name>.types
+types: $typography.types
 
 
 -- end: site-doc.doc-home
